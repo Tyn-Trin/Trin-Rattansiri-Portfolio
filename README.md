@@ -1,5 +1,4 @@
 # 👋 Hi, I'm [Trin Rattanasiri]
-System Analyst | Business Analysis | 
 
 ## 🛠️ Skills
 -  Business Requirements (BRD / FRD)
