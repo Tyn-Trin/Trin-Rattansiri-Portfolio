@@ -22,7 +22,7 @@
 - Dbdiagram.io
 
 ## 📂 Projects
-- [ระบบ xxx](#) — coming soon
+- [ระบบ Smooth-E Platform Integration](#)
 
 ## 📫 Contact
 - Email: tyntrin@gmail.com
