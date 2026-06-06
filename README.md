@@ -8,7 +8,6 @@
 -  SDLC
   
 ## 💻 Technical Skill
-- Python
 - SQL
 - Java
 - JSON
