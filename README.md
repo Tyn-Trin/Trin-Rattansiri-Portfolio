@@ -22,8 +22,8 @@
 
 ## 📂 Projects
 
-- [ระบบ ERP Royaltec Module Purchase](#)
-- [ระบบ ERP Smooth-E Platform Integration](#)
+- [Design ERP Royaltec Module Purchase](#)
+- [Design ERP Smooth-E Platform Integration](#)
 
 ## 📫 Contact
 - Email: tyntrin@gmail.com
