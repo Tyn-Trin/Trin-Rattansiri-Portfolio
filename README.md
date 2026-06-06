@@ -10,6 +10,7 @@
 ## 💻 Technical Skill
 - SQL
 - Java
+- Spring Boot
 - JSON
 - REST API
 - Odoo
