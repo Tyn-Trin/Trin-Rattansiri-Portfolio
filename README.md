@@ -23,7 +23,7 @@
 ## 📂 Projects
 
 - [Design ERP Royaltec Module Purchase](https://github.com/Tyn-Trin/ERP-Purchase-Scaleflex-Design)
-- [Design ERP Smooth-E Platform Integration](#)
+- [Design ERP Smooth-E Platform Integration](https://github.com/Tyn-Trin/Smooth-E-Platform-Integration)
 
 ## 📫 Contact
 - Email: tyntrin@gmail.com
