@@ -21,7 +21,9 @@
 - Dbdiagram.io
 
 ## 📂 Projects
-- [ระบบ Smooth-E Platform Integration](#)
+
+- [ระบบ ERP Royaltec Module Purchase](#)
+- [ระบบ ERP Smooth-E Platform Integration](#)
 
 ## 📫 Contact
 - Email: tyntrin@gmail.com
