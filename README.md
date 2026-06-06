@@ -14,6 +14,8 @@
 - JSON
 - REST API
 - Odoo
+- HTML
+- CSS
 
 ## 🧰 Tools
 - Postman
