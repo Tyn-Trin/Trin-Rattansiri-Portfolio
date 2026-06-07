@@ -1,12 +1,11 @@
 # 👋 Hi, I'm [Trin Rattanasiri]
 
-## 🛠️ Skills
--  Business Requirements (BRD / FRD)
--  UML, Use Case, Flowchart
--  SQL, ERD Design, Database Design
--  API Spec & REST API Design
--  SDLC
-  
+## 📂 Projects
+
+- [Design ERP Royaltec Module Purchase](https://github.com/Tyn-Trin/ERP-Purchase-Scaleflex-Design)
+- [Design ERP Smooth-E Platform Integration](https://github.com/Tyn-Trin/Smooth-E-Platform-Integration)
+- [Mockup Embedded-Insurance-Partner-API](https://github.com/Tyn-Trin/Embedded-Insurance-Partner-API)
+
 ## 💻 Technical Skill
 - SQL
 - Java
@@ -22,11 +21,13 @@
 - Lark
 - Teamwork
 - Dbdiagram.io
-
-## 📂 Projects
-
-- [Design ERP Royaltec Module Purchase](https://github.com/Tyn-Trin/ERP-Purchase-Scaleflex-Design)
-- [Design ERP Smooth-E Platform Integration](https://github.com/Tyn-Trin/Smooth-E-Platform-Integration)
+- 
+## 🛠️ Skills
+-  Business Requirements (BRD / FRD)
+-  UML, Use Case, Flowchart
+-  SQL, ERD Design, Database Design
+-  API Spec & REST API Design
+-  SDLC
 
 ## 📫 Contact
 - Email: tyntrin@gmail.com
