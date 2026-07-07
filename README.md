@@ -4,6 +4,7 @@
 
 - [Virtual Office — Ai-Assistant](https://github.com/Tyn-Trin/Visual-Office-Ai-Assistant)
 - [AI Agent-Business Intelligence](https://github.com/Tyn-Trin/AI-Agent-transforms-it-into-Business-Intelligence-visualizations-)
+- [Digital-Marketing-Agency-AI-Automation](https://github.com/Tyn-Trin/Digital-Marketing-Agency-AI-Automation)
 - [Odoo-ERP-LINE-Approval-Assign](https://github.com/Tyn-Trin/Odoo-ERP-LINE-Approval-Assign)
 
 ## 💻 Technical Skill
