@@ -2,14 +2,18 @@
 
 ## 📂 Projects
 
-- [Design ERP Royaltec Module Purchase](https://github.com/Tyn-Trin/ERP-Purchase-Scaleflex-Design)
-- [Design ERP Smooth-E Platform Integration](https://github.com/Tyn-Trin/Smooth-E-Platform-Integration)
-- [Mockup Embedded-Insurance-Partner-API](https://github.com/Tyn-Trin/Embedded-Insurance-Partner-API)
+- [Virtual Office — Ai-Assistant](https://github.com/Tyn-Trin/Visual-Office-Ai-Assistant)
+- [AI Agent-Business Intelligence](https://github.com/Tyn-Trin/AI-Agent-transforms-it-into-Business-Intelligence-visualizations-)
+- [Odoo-ERP-LINE-Approval-Assign](https://github.com/Tyn-Trin/Odoo-ERP-LINE-Approval-Assign)
 
 ## 💻 Technical Skill
 - SQL
 - Java
+- Python
 - Spring Boot
+- chromaDB
+- RAG
+- LLM
 - JSON
 - REST API
 - Odoo
@@ -21,11 +25,12 @@
 - Lark
 - Teamwork
 - Dbdiagram.io
-- 
+- Mermaid.ai
+  
 ## 🛠️ Skills
 -  Business Requirements (BRD / FRD)
--  UML, Use Case, Flowchart
--  SQL, ERD Design, Database Design
+-  Architecture Design (ERD/Sequnce Diagram)
+-  Use Case, Flowchart
 -  API Spec & REST API Design
 -  SDLC
 
