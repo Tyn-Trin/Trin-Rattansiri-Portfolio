@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="assets/stats-card.svg" alt="Core technologies and language usage stats card" />
+<img src="assets/stats-card.svg?v=3" alt="Core technologies and language usage stats card" />
 
 </div>
 
