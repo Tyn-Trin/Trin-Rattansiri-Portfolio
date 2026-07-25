@@ -8,10 +8,24 @@
 
 ## Projects
 
-- [Virtual Office — AI-Assistant](https://github.com/Tyn-Trin/Visual-Office-Ai-Assistant)
-- [AI Agent — Business Intelligence](https://github.com/Tyn-Trin/AI-Agent-transforms-it-into-Business-Intelligence-visualizations-)
-- [Digital Marketing Agency — AI Automation](https://github.com/Tyn-Trin/Digital-Marketing-Agency-AI-Automation)
-- [Odoo ERP — LINE Approval Assign](https://github.com/Tyn-Trin/Odoo-ERP-LINE-Approval-Assign)
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/Tyn-Trin/Visual-Office-Ai-Assistant"><img src="https://opengraph.githubassets.com/1/Tyn-Trin/Visual-Office-Ai-Assistant" width="100%" alt="Virtual Office — AI-Assistant" /></a>
+</td>
+<td width="50%">
+<a href="https://github.com/Tyn-Trin/AI-Agent-transforms-it-into-Business-Intelligence-visualizations-"><img src="https://opengraph.githubassets.com/1/Tyn-Trin/AI-Agent-transforms-it-into-Business-Intelligence-visualizations-" width="100%" alt="AI Agent — Business Intelligence" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/Tyn-Trin/Digital-Marketing-Agency-AI-Automation"><img src="https://opengraph.githubassets.com/1/Tyn-Trin/Digital-Marketing-Agency-AI-Automation" width="100%" alt="Digital Marketing Agency — AI Automation" /></a>
+</td>
+<td width="50%">
+<a href="https://github.com/Tyn-Trin/Odoo-ERP-LINE-Approval-Assign"><img src="https://opengraph.githubassets.com/1/Tyn-Trin/Odoo-ERP-LINE-Approval-Assign" width="100%" alt="Odoo ERP — LINE Approval Assign" /></a>
+</td>
+</tr>
+</table>
 
 ## Technical Skills
 
