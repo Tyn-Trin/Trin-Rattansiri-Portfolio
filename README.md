@@ -8,7 +8,7 @@
 
 ## Projects
 
-<table cellspacing="0" cellpadding="12">
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -27,6 +27,9 @@ AI agent that turns raw business data into BI visualizations.
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -49,14 +52,14 @@ Odoo ERP integration that routes approval assignments through LINE.
 
 ## Assessment SRC
 
-<table cellspacing="0" cellpadding="12">
+<table>
 <tr>
 <td width="50%" valign="top">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Bangkok_Bank_2023_%28English_version%29.svg" height="28" alt="Bangkok Bank" /><br/>
 
 **AI Assessment — Bangkok Bank**<br/>
-Technical assessment completed for Bangkok Bank.
+Technical assessment for Bangkok Bank.
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/Ai-assessment-BangkokBank)
 
