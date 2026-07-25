@@ -8,7 +8,7 @@
 
 ## Projects
 
-<table>
+<table cellspacing="0" cellpadding="12">
 <tr>
 <td width="50%" valign="top">
 
@@ -49,7 +49,7 @@ Odoo ERP integration that routes approval assignments through LINE.
 
 ## Assessment SRC
 
-<table>
+<table cellspacing="0" cellpadding="12">
 <tr>
 <td width="50%" valign="top">
 
