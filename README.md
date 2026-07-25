@@ -10,19 +10,39 @@
 
 <table>
 <tr>
-<td width="50%">
-<a href="https://github.com/Tyn-Trin/Visual-Office-Ai-Assistant"><img src="https://opengraph.githubassets.com/1/Tyn-Trin/Visual-Office-Ai-Assistant" width="100%" alt="Virtual Office — AI-Assistant" /></a>
+<td width="50%" valign="top">
+
+**Virtual Office — AI-Assistant**
+AI assistant that automates internal virtual-office workflows.
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/Visual-Office-Ai-Assistant)
+
 </td>
-<td width="50%">
-<a href="https://github.com/Tyn-Trin/AI-Agent-transforms-it-into-Business-Intelligence-visualizations-"><img src="https://opengraph.githubassets.com/1/Tyn-Trin/AI-Agent-transforms-it-into-Business-Intelligence-visualizations-" width="100%" alt="AI Agent — Business Intelligence" /></a>
+<td width="50%" valign="top">
+
+**AI Agent — Business Intelligence**
+AI agent that turns raw business data into BI visualizations.
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/AI-Agent-transforms-it-into-Business-Intelligence-visualizations-)
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<a href="https://github.com/Tyn-Trin/Digital-Marketing-Agency-AI-Automation"><img src="https://opengraph.githubassets.com/1/Tyn-Trin/Digital-Marketing-Agency-AI-Automation" width="100%" alt="Digital Marketing Agency — AI Automation" /></a>
+<td width="50%" valign="top">
+
+**Digital Marketing Agency — AI Automation**
+AI-driven automation for digital marketing agency operations.
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/Digital-Marketing-Agency-AI-Automation)
+
 </td>
-<td width="50%">
-<a href="https://github.com/Tyn-Trin/Odoo-ERP-LINE-Approval-Assign"><img src="https://opengraph.githubassets.com/1/Tyn-Trin/Odoo-ERP-LINE-Approval-Assign" width="100%" alt="Odoo ERP — LINE Approval Assign" /></a>
+<td width="50%" valign="top">
+
+**Odoo ERP — LINE Approval Assign**
+Odoo ERP integration that routes approval assignments through LINE.
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/Odoo-ERP-LINE-Approval-Assign)
+
 </td>
 </tr>
 </table>
