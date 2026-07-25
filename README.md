@@ -40,16 +40,15 @@
 - API Spec & REST API Design
 - SDLC
 
-## GitHub Stats
+## Language Usage (across all repos)
 
-<div align="center">
-
-<img src="https://github-readme-stats-psi-ten.vercel.app/api?username=Tyn-Trin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Trin's GitHub stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tyn-Trin&theme=tokyonight&hide_border=true" alt="Trin's GitHub streak" height="165" />
-
-<img src="https://github-readme-stats-psi-ten.vercel.app/api/top-langs/?username=Tyn-Trin&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-
-</div>
+| Language | Usage |
+|---|---|
+| Python | 52.4% |
+| JavaScript | 43.2% |
+| SCSS | 1.9% |
+| Fluent | 1.8% |
+| Other (CSS, TypeScript, HTML, Shell, etc.) | 0.7% |
 
 ## Contact
 
